@@ -15,7 +15,7 @@ While my focus is on academics, I also have a deep appreciation for PC Gaming an
 
 - 📊 Working with **Power BI** and **BigQuery** to perform data analytics on billing data at Motion.
 - 🌐 Deploying full-stack web applications in hosted on **Google Cloud**.
-- 🛠️ Containerizing and deploying personal projects via **Docker** on my personal **Ubuntu** server.
+- 🛠️ Containerizing and deploying personal projects via **Docker** on my **Ubuntu** server.
 
 ---
 
