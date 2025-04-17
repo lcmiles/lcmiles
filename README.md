@@ -9,15 +9,13 @@ While my focus is on academics, I also have a deep appreciation for PC Gaming an
 * 🎓 BS in Computer Science | University of Alabama at Birmingham (Anticipated Spring 2025)
 * 💼 Cloud Engineering Co-Op at Motion Industries
 
----
+## 📊 GitHub Stats
 
-## 🚀 Current Focus
-
-- 📊 Working with **Power BI** and **BigQuery** to perform data analytics on billing data at Motion.
-- 🌐 Deploying full-stack web applications in hosted on **Google Cloud**.
-- 🛠️ Containerizing and deploying personal projects via **Docker** on my **Ubuntu** server.
-
----
+<div align="center" style="display: flex; flex-direction: column; align-items: center; max-width: 800px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=lcmiles&show_icons=true&theme=tokyonight&hide_border=true" width="60%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lcmiles&theme=tokyonight&hide_border=true" width="60%" /> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lcmiles&layout=compact&theme=tokyonight&hide_border=true" width="60%" />
+</div>
 
 ## 🧰 Tech Stack
 
@@ -45,8 +43,6 @@ While my focus is on academics, I also have a deep appreciation for PC Gaming an
 ![GitLab](https://img.shields.io/badge/GitLab-%23FC6D26.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 
----
-
 ## 📂 Featured Projects
 
 🔹 **Agricultural Drone System**
@@ -68,13 +64,12 @@ A full stack web application developed as part of my capstone course designed to
 * Hashed passwords and session management for security
 
 
-## 📊 GitHub Stats
----
-<div align="center" style="display: flex; flex-direction: column; align-items: center; max-width: 800px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=lcmiles&show_icons=true&theme=tokyonight&hide_border=true" width="60%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lcmiles&theme=tokyonight&hide_border=true" width="60%" /> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lcmiles&layout=compact&theme=tokyonight&hide_border=true" width="60%" />
-</div>
+
+## 🚀 Current Focus
+
+- 📊 Working with **Power BI** and **BigQuery** to perform data analytics on billing data at Motion.
+- 🌐 Deploying full-stack web applications in hosted on **Google Cloud**.
+- 🛠️ Containerizing and deploying personal projects via **Docker** on my **Ubuntu** server.
 
 ## 📫 How to Reach Me
 <a href="https://www.linkedin.com/in/logan-miles-251521295" target="_blank">
@@ -83,7 +78,5 @@ A full stack web application developed as part of my capstone course designed to
 <a href="https://lcmiles.github.io/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logoColor=white" /></a><a href="mailto:lcmiles@uab.edu" target="_blank">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-
----
 
 ### Thanks for stopping by!
