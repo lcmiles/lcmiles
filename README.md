@@ -12,9 +12,9 @@ While my focus is on academics, I also have a deep appreciation for PC gaming an
 ## 📊 GitHub Stats
 
 <div align="center" style="display: flex; flex-direction: column; align-items: center; max-width: 800px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=lcmiles&show_icons=true&theme=tokyonight&hide_border=true" width="60%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=lcmiles&show_icons=true&theme=dark&hide_border=true" width="60%" />
   <img src="https://nirzak-streak-stats.vercel.app/?user=lcmiles&theme=dark&hide_border=false" width="60%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lcmiles&layout=compact&theme=tokyonight&hide_border=true" width="60%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lcmiles&layout=compact&theme=dark&hide_border=true" width="60%" />
 </div>
 
 ## 🧰 Tech Stack
