@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Logan Miles
 
-I'm a Cloud Engineering and full-stack development enthusiast with a passion for creative tech projects. I recently graduated from the University of Alabama at Birmingham with a Bachelor of Science in Computer Science as part of the Honors Program. My academic journey gave me a strong foundation in programming languages like Java, Python, and C, and fueled my interests in web development, game development, algorithms, and problem-solving.
+I'm a Cloud Engineering and full-stack development enthusiast with a passion for creative tech projects. I recently graduated Magna Cum Laude with Distinguished Honors from the University of Alabama at Birmingham, earning a Bachelor of Science in Computer Science. My academic journey gave me a strong foundation in programming languages like Java, Python, and C, and fueled my interests in web development, game development, algorithms, and problem-solving.
 
 I'm currently working in a Cloud/Site Reliability Engineering Co-Op position at Motion, a subsidiary of Genuine Parts Company. Through this role, I’ve developed and maintained a cloud billing dashboard using Google BigQuery and Power BI to improve spending visibility. I've also written Terraform infrastructure-as-code and developed Python scripts interacting with various Google Cloud APIs. This hands-on experience continues to sharpen my skills in cloud infrastructure, automation, and data analysis.
 
@@ -8,7 +8,7 @@ Outside of work, I’m an avid PC gamer and tech tinkerer. I enjoy building cust
 
 Feel free to connect with me if you share similar interests or want to collaborate on exciting projects—I’m always eager to learn and grow with others in the tech community!
 
-* 🎓 BS in Computer Science | University of Alabama at Birmingham (Anticipated Spring 2025)
+* 🎓 BS in Computer Science | University of Alabama at Birmingham
 * 💼 Cloud Engineering Co-Op at Motion Industries
 
 ## 📊 GitHub Stats
