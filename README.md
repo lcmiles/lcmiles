@@ -9,7 +9,7 @@ Outside of work, I enjoy building personal projects that deepen my technical ski
 I'm always eager to learn more and collaborate on exciting tech projects. Feel free to connect if you’d like to talk about cloud technologies, software engineering, or emerging trends in tech!
 
 * 🎓 BS in Computer Science | University of Alabama at Birmingham
-* 💼 Cloud Engineering Co-Op at Motion Industries
+* 💼 Cloud Engineer at Motion Industries
 
 ## 📊 GitHub Stats
 
