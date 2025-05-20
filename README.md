@@ -1,12 +1,12 @@
 # 👋 Hi, I'm Logan Miles
 
-I'm a Cloud Engineering and full-stack development enthusiast with a passion for creative tech projects. I recently graduated Magna Cum Laude with Distinguished Honors from the University of Alabama at Birmingham, earning a Bachelor of Science in Computer Science. My academic journey gave me a strong foundation in programming languages like Java, Python, and C, and fueled my interests in web development, game development, algorithms, and problem-solving.
+I'm a recent Computer Science graduate from the University of Alabama at Birmingham, where I earned my degree Magna Cum Laude with Distinguished Honors. My academic background and hands-on experience have shaped me into a well-rounded technologist with a strong interest in cloud computing, software development, and systems engineering.
 
-I'm currently working in a Cloud/Site Reliability Engineering Co-Op position at Motion, a subsidiary of Genuine Parts Company. Through this role, I’ve developed and maintained a cloud billing dashboard using Google BigQuery and Power BI to improve spending visibility. I've also written Terraform infrastructure-as-code and developed Python scripts interacting with various Google Cloud APIs. This hands-on experience continues to sharpen my skills in cloud infrastructure, automation, and data analysis.
+I’m currently working full time as a Cloud Engineer at Motion (Genuine Parts Company), where I previously interned and served as a Cloud/Site Reliability Engineering Co-Op. During my time at Motion, I’ve gained practical experience in cloud infrastructure, infrastructure-as-code, and billing analysis. I’ve built and maintained a FinOps dashboard using Google BigQuery and Power BI to improve cloud cost visibility across teams and developed Python scripts to integrate with various Google Cloud Platform APIs.
 
-Outside of work, I’m an avid PC gamer and tech tinkerer. I enjoy building custom rigs, optimizing system performance, and diving into the latest trends in computer hardware. I also manage a personal home server, where I deploy open-source Docker containers and experiment with self-hosted applications and infrastructure automation.
+Outside of work, I enjoy building personal projects that deepen my technical skills. I manage a personal Ubuntu server for home automation and other self-hosted applications. I'm particularly passionate about performance optimization—whether in the cloud or on my own hardware.
 
-Feel free to connect with me if you share similar interests or want to collaborate on exciting projects—I’m always eager to learn and grow with others in the tech community!
+I'm always eager to learn more and collaborate on exciting tech projects. Feel free to connect if you’d like to talk about cloud technologies, software engineering, or emerging trends in tech!
 
 * 🎓 BS in Computer Science | University of Alabama at Birmingham
 * 💼 Cloud Engineering Co-Op at Motion Industries
