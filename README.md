@@ -2,7 +2,7 @@
 
 I'm a recent Computer Science graduate from the University of Alabama at Birmingham, where I earned my degree Magna Cum Laude with Distinguished Honors. My academic background and hands-on experience have shaped me into a well-rounded technologist with a strong interest in cloud computing, software development, and systems engineering.
 
-Through my opportunities at Motion (Genuine Parts Company), I have gained hands-on experience in cloud infrastructure, billing analysis, and infrastructure-as-code using Terraform. I have contributed to improving FinOps visibility by exporting and analyzing cloud billing data from Google Cloud Platform. I am also developing and deploying API proxies on Apigee, while actively improving the deployment process using configuration as code to enhance consistency, automation, and version control.
+I’m currently working full time as a Cloud Engineer at Motion (Genuine Parts Company), where I previously interned and served as a Cloud/Site Reliability Engineering Co-Op. Through my opportunities at Motion, I have gained hands-on experience in cloud infrastructure, billing analysis, and infrastructure-as-code using Terraform. I have contributed to improving FinOps visibility by exporting and analyzing cloud billing data from Google Cloud Platform. I am also developing and deploying API proxies on Apigee, while actively improving the deployment process using configuration as code to enhance consistency, automation, and version control.
 
 Outside of work, I enjoy building personal projects that deepen my technical skills. I manage a personal Ubuntu server for home automation and other self-hosted applications. I'm particularly passionate about performance optimization—whether in the cloud or on my own hardware.
 
