@@ -2,7 +2,7 @@
 
 I'm a recent Computer Science graduate from the University of Alabama at Birmingham, where I earned my degree Magna Cum Laude with Distinguished Honors. My academic background and hands-on experience have shaped me into a well-rounded technologist with a strong interest in cloud computing, software development, and systems engineering.
 
-I’m currently working full time as a Cloud Engineer at Motion (Genuine Parts Company), where I previously interned and served as a Cloud/Site Reliability Engineering Co-Op. During my time at Motion, I’ve gained practical experience in cloud infrastructure, infrastructure-as-code, and billing analysis. I’ve built and maintained a FinOps dashboard using Google BigQuery and Power BI to improve cloud cost visibility across teams and developed Python scripts to integrate with various Google Cloud Platform APIs.
+I am a senior-level Computer Science student at the University of Alabama at Birmingham, actively developing my skills in cloud computing, software development, and systems engineering. Through my co-op at Motion (Genuine Parts Company), I have gained hands-on experience in cloud infrastructure, billing analysis, and infrastructure-as-code using Terraform. I have contributed to improving FinOps visibility by exporting and analyzing cloud billing data from Google Cloud Platform. I am also developing and deploying API proxies on Apigee, while actively improving the deployment process using configuration as code to enhance consistency, automation, and version control.
 
 Outside of work, I enjoy building personal projects that deepen my technical skills. I manage a personal Ubuntu server for home automation and other self-hosted applications. I'm particularly passionate about performance optimization—whether in the cloud or on my own hardware.
 
@@ -38,10 +38,12 @@ I'm always eager to learn more and collaborate on exciting tech projects. Feel f
 ![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-%23E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-%23F2C811.svg?style=for-the-badge)
+![APIs](https://img.shields.io/badge/APIs-%23007396.svg?style=for-the-badge&logo=cloudflare&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-%230E1128.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![BigQuery](https://img.shields.io/badge/BigQuery-%234285F4.svg?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Apigee](https://img.shields.io/badge/Apigee-%234285F4.svg?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-%23623CE4.svg?style=for-the-badge&logo=terraform&logoColor=white)
 ![Azure DevOps Pipelines](https://img.shields.io/badge/ADO%20Pipelines-%230078D7.svg?style=for-the-badge)
 ![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
@@ -74,6 +76,7 @@ A full stack web application developed as part of my capstone course designed to
 ## 🚀 Current Focus
 
 - 📊 Working with **Power BI** and **BigQuery** to perform data analytics on billing data at Motion.
+- 🔁 Maintaining and developing our **Apigee API Platform** to support API development at Motion.
 - 🌐 Deploying full-stack web applications in hosted on **Google Cloud**.
 - 🛠️ Containerizing and deploying personal projects via **Docker** on my **Ubuntu** server.
 
