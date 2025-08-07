@@ -8,7 +8,7 @@ Outside of work, I enjoy building personal projects that deepen my technical ski
 
 I'm always eager to learn more and collaborate on exciting tech projects. Feel free to connect if you’d like to talk about cloud technologies, software engineering, or emerging trends in tech!
 
-* 🎓 BS in Computer Science | University of Alabama at Birmingham
+* 🎓 BS in Computer Science | University of Alabama at Birmingham  
 * 💼 Cloud Engineer at Motion Industries
 
 ## 📊 GitHub Stats
@@ -50,41 +50,48 @@ I'm always eager to learn more and collaborate on exciting tech projects. Feel f
 ![GitLab](https://img.shields.io/badge/GitLab-%23FC6D26.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 
-
 ## 📂 Featured Projects
 
-🔹 **Agricultural Drone System**
+🔹 [**Agricultural Drone System**](https://github.com/lcmiles/CS-420-Final-Project)  
+A desktop app simulating smart-farm automation: collects crop, soil, livestock, and pest data—includes animated drone task routing, persistent item storage, and data visualization.  
+* JavaFX framework based UI  
+* SQLite database file used for data management  
+* Object Oriented Java Classes  
 
-A desktop app simulating smart-farm automation: collects crop, soil, livestock, and pest data—includes animated drone task routing, persistent item storage, and data visualization. 
-* JavaFX framework based UI
-* SQLite database file used for data management
-* Object Oriented Java Classes
+🔹 [**Blazing Adoptions**](https://github.com/lcmiles/CS-499-Capstone)  
+A full stack web application developed as part of my capstone course designed to make the pet adoption process more user friendly.  
+* Flask (Python web framework) used to handle web traffic and routing  
+* MySQL server instance (locally hosted on my personal Ubuntu server) used for data management  
+* Google Cloud Storage used to store media such as photos and videos  
+* Containerized using Docker  
+* Deployments automated using Google Cloud Run and Cloud Build  
+* Front-end consists of HTML, CSS, JavaScript for dynamic content rendering  
+* Hashed passwords and session management for security  
 
-🔹 **Blazing Adoptions**  
-
-A full stack web application developed as part of my capstone course designed to make the pet adoption process more user friendly.
-* Flask (Python web framework) used to handle web traffic and routing
-* MySQL server instance (locally hosted on my personal ubuntu server) used for data management
-* Google Cloud Storage used to store media such as photos and videos
-* Containerized using Docker
-* Deployments automated using Google Cloud Run and Cloud Build
-* Front-end consists of HTML, CSS, JavaScript for dynamic content rendering
-* Hashed passwords and session management for security
-
-
+🔹 [**Ollama Chat**](https://github.com/lcmiles/ollama-chat)  
+A lightweight, locally hosted LLM chat interface that integrates with Ollama and exposes chat completions via a RESTful API.  
+* User sign-in/up
+* Chat history and theme management for users
+* Mobile web display support
+* MySQL backend connection
+* RESTful calls to API server
+* Nginx used to serve web pages
+* Chat history is stored per user 
+* Containerized deployment using Docker and self-hosted on my server
 
 ## 🚀 Current Focus
 
-- 📊 Working with **Power BI** and **BigQuery** to perform data analytics on billing data at Motion.
-- 🔁 Maintaining and developing our **Apigee API Platform** to support API development at Motion.
-- 🌐 Deploying full-stack web applications in hosted on **Google Cloud**.
-- 🛠️ Containerizing and deploying personal projects via **Docker** on my **Ubuntu** server.
+- 📊 Working with **Power BI** and **BigQuery** to perform data analytics on billing data at Motion.  
+- 🔁 Maintaining and developing our **Apigee API Platform** to support API development at Motion.  
+- 🌐 Deploying full-stack web applications hosted on **Google Cloud**.  
+- 🛠️ Containerizing and deploying personal projects via **Docker** on my **Ubuntu** server.  
 
 ## 📫 How to Reach Me
 <a href="https://www.linkedin.com/in/logan-miles-251521295" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://lcmiles.github.io/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logoColor=white" /></a><a href="mailto:lcmiles@uab.edu" target="_blank">
+<a href="https://lcmiles.github.io/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logoColor=white" /></a>
+<a href="mailto:lcmiles@uab.edu" target="_blank">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
