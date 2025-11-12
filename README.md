@@ -1,12 +1,12 @@
 # 👋 Hi, I'm Logan Miles
 
-I'm a recent Computer Science graduate from the University of Alabama at Birmingham, where I earned my degree Magna Cum Laude with Distinguished Honors. My academic background and hands-on experience have shaped me into a well-rounded technologist with a strong interest in cloud computing, software development, and systems engineering.
+I'm a programming and full-stack development enthusiast with a passion for creative tech projects. I recently graduated Magna Cum Laude with Distinguished Honors from the University of Alabama at Birmingham, earning a Bachelor of Science in Computer Science. My academic journey gave me a strong foundation in programming languages like Java, Python, and C, and fueled my interests in web development, game development, algorithms, and problem-solving.
 
-I’m currently working full time as a Cloud Engineer at Motion (Genuine Parts Company), where I previously interned and served as a Cloud/Site Reliability Engineering Co-Op. Through my opportunities at Motion, I have gained hands-on experience in cloud infrastructure, billing analysis, and infrastructure-as-code using Terraform. I have contributed to improving FinOps visibility by exporting and analyzing cloud billing data from Google Cloud Platform. I am also developing and deploying API proxies on Apigee, while actively improving the deployment process using configuration as code to enhance consistency, automation, and version control.
+I'm currently working full time as a Software Engineer at Regions, focusing on building full‑stack customer authentication and identity management systems. My work spans secure backend services and identity flows as well as the front‑end experiences that integrate them, with an emphasis on reliability, performance, and security best practices.
 
 Outside of work, I enjoy building personal projects that deepen my technical skills. I manage a personal Ubuntu server for home automation and other self-hosted applications. I also enjoy building custom gaming rigs, optimizing system performance, and diving into the latest trends in computer hardware. I'm passionate about performance optimization and system automation—whether in the cloud or on my own hardware.
 
-I'm always eager to learn more and collaborate on exciting tech projects. Feel free to connect if you’d like to talk about cloud technologies, software engineering, or emerging trends in tech!
+Feel free to connect with me if you share similar interests or want to collaborate on exciting projects—I'm always eager to learn and grow with others in the tech community!
 
 * 🎓 BS in Computer Science | University of Alabama at Birmingham  
 * 💼 Cloud Engineer at Motion Industries
@@ -77,14 +77,7 @@ A lightweight, locally hosted LLM chat interface that integrates with Ollama and
 * RESTful calls to API server
 * Nginx used to serve web pages
 * Chat history is stored per user 
-* Containerized deployment using Docker and self-hosted on my server
-
-## 🚀 Current Focus
-
-- 📊 Working with **Power BI** and **BigQuery** to perform data analytics on billing data at Motion.  
-- 🔁 Maintaining and developing our **Apigee API Platform** to support API development at Motion.  
-- 🌐 Deploying full-stack web applications hosted on **Google Cloud**.  
-- 🛠️ Containerizing and deploying personal projects via **Docker** on my **Ubuntu** server.  
+* Containerized deployment using Docker and self-hosted on my server  
 
 ## 📫 How to Reach Me
 <a href="https://www.linkedin.com/in/logan-miles-251521295" target="_blank">
